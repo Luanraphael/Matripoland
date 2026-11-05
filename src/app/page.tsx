@@ -3,8 +3,7 @@ import type { ReactNode } from "react";
 import { Check, ChevronsDown, Gift, Minus, Plus, ShieldCheck, TriangleAlert } from "lucide-react";
 
 const IMG = "/mesaposta";
-// TODO: trocar pelo link de checkout da oferta polonesa (enquanto isso, os botões levam até a oferta).
-const CHECKOUT_URL = "#offerta";
+const CHECKOUT_URL = "https://pay.hotmart.com/A108348175G?checkoutMode=10";
 const display = "font-display";
 
 /* ------------------------------------------------------------------ */
